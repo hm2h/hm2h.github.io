@@ -7,7 +7,7 @@ name: Kailey
 # Short bio or description (displayed in the header)
 description: This site is a way to track my progress in coding and cybersecurity.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![turtle image]({{ site.baseurl }}/images/turtle.jpg "turtle avatar")
+avatar: ![turtle image]({{ site.baseurl }}/images/smallturtle.png "turtle avatar")
 
 
 #
